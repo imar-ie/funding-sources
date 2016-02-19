@@ -1,0 +1,4 @@
+## Company Expansion Packages {#company-expansion-packages}
+
+1.  [**Job Expansion Fund**](http://www.enterprise-ireland.com/en/funding-supports/Company/Esetablish-SME-Funding/Job-Expansion-Fund-max-%E2%82%AC150,000-.html)Funding to support new employment. The fund provides grant support up to a maximum of €150,000 towards the recruitment of new employees. Applications for funding will be accepted on specific call close dates.
+2.  [**Tailored Company Expansion Packages**](http://www.enterprise-ireland.com/en/Funding-Supports/Company/Esetablish-SME-Funding/Tailored-Company-Expansion-Packages-.html)If you are planning to undertake an ambitious expansion of your company that will create employment and grow your sales in international markets, Enterprise Ireland can discuss a tailored financial support package for your company.

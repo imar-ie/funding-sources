@@ -1,0 +1,5 @@
+## [Research and Development Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-taighde-agus-forbartha) {#research-and-development-grant}
+
+Research and development grants are available to assist businesses develop innovative products, processes and services which will lead to an enhancement of their ability to perform in increasingly competitive markets.
+
+Eligible costs include R&D Salaries, directly related additional overheads, the cost of capital assets to the extent and for the period of their use in the research project, costs of contractual research, technical knowledge and patents bought or licensed from outside sources, other operating expenses including costs of materials, supplies, travel and subsistence and other similar costs directly related to the research activity.

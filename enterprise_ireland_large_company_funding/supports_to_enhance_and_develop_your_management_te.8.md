@@ -1,0 +1,3 @@
+## Supports to Enhance and Develop your Management Team {#supports-to-enhance-and-develop-your-management-team}
+
+*   1.  [**Leadership 4 Growth (L4G) Programme**](http://www.enterprise-ireland.com/en/Management/Leadership-and-Management-Development/Leadership-4-Growth-Programme.shortcut.html)****Delivered in conjunction with Stanford University this flagship programme is designed to develop and enhance the leadership ambition, mind-set and capability of Irish CEOs and their senior management teams to lead innovative, scalable companies, capable of achieving sustained international growth.

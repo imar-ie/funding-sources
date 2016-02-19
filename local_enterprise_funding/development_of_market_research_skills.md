@@ -1,0 +1,3 @@
+## [Development of Market Research Skills](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-dforbairt-scileanna-margaiochta) {#development-of-market-research-skills}
+
+This initiative aims to develop the market development skills of small and medium sized enterprises (SME’s) by providing support towards internal costs which they may incur when researching new markets for products and services. Eligible costs include the wages of those employed to undertake the marketing programme, travel and subsistence, and internal costs in relation to new market trials for products/services.

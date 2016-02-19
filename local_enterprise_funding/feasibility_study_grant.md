@@ -1,0 +1,3 @@
+## [Feasibility Study Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-staidear-feidearthachta) {#feasibility-study-grant}
+
+Feasibility study grant aid is available to groups, organisations, businesses or individuals to allow them assess the viability of a business idea. A significant portion of costs directly related to the feasibility study may be covered. Examples of eligible costs are salaries and wages of the company’s personnel, cost of consultants, related travel and subsistence and any other additional overheads incurred directly as a result of the Feasibility Study.

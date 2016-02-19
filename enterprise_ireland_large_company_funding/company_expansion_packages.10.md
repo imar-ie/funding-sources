@@ -1,0 +1,3 @@
+## Company Expansion Packages {#company-expansion-packages}
+
+1.  [**Tailored Company Expansion Packages**](http://www.enterprise-ireland.com/en/Funding-Supports/Company/Large-Company-Funding/Tailored-Company-Expansion-Packages-.shortcut.html)If you are planning to undertake an ambitious expansion of your company that will create employment and grow your sales in international markets, Enterprise Ireland can discuss a tailored financial support package for your company.

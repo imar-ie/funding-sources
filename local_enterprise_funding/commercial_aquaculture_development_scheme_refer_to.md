@@ -1,0 +1,1 @@
+## [Commercial Aquaculture Development Scheme](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/sceim-fhorbartha-uisceshaothraithe-thrachtala): Refer to Údarás na Gaeltachta for details. {#commercial-aquaculture-development-scheme-refer-to-dar-s-na-gaeltachta-for-details}

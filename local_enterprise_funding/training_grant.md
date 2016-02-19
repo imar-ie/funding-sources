@@ -1,0 +1,3 @@
+## [Training Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-oiliuna) {#training-grant}
+
+Diversifying and expanding your business brings with it the requirement for new skills and expertise. Under the Training Grants Scheme, Údarás na Gaeltachta provides assistance for training programmes that train or retrain employees. Eligible expenditure includes that related to the trainers travelling expenses, materials/supplies, advice and consultancy and wages. The grant aid level varies according to the type of training involved and whether it is of a specific or general nature.

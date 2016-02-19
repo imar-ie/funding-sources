@@ -1,7 +1,6 @@
 # Summary
 
 * [Funding Sources](README.md)
-* [Introduction](introduction.md)
 * [Have a Start-up Idea?](have_a_start-up_idea.md)
 * [IMaR Technology Gateway – Enterprise Ireland](imar_technology_gateway__enterprise_ireland/README.md)
   * [Innovation Partnerships](imar_technology_gateway__enterprise_ireland/innovation_partnerships.md)

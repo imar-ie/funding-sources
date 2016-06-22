@@ -1,7 +1,7 @@
 
 
 
-![Imar Logo](C:\Users\micheal\Desktop\imarLogo2.png>) 
+![Imar Logo](C:\Users\micheal\Desktop\imarLogo2.png> "IMar Technology Gatway IT Tralee") 
 
 # Introduction {#introduction}           
 

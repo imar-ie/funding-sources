@@ -1,5 +1,8 @@
 # Local Enterprise Office (LEO) {#local-enterprise-office-leo}
 
+
+[Local Interpris Offise]()
+
 Local Enterprise Office provides advice, information and support to you starting up or growing your business. With 31 dedicated teams across the Local Authority network in Ireland, Local Enterprise Offices offer a first-stop shop for entrepreneurs. Supports available include:
 
 *   Start-your-own-business training courses.

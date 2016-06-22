@@ -1,4 +1,4 @@
-# Have a Start-up Idea? {#have-a-start-up-idea}
+# Have a Start-up Idea? {#have-a-start-up-idea}    
 
 If you have a start-up idea that you would like to investigate, the following four options are available for funding:
 

@@ -4,10 +4,10 @@ New Frontiers is Ireland’s national entrepreneur development programme run in 
 
 **_The Contact Details for New Frontiers Entrepreneur Development Programme at IT Tralee are:_**
 
-**Contact:** Anne Looney
+    Contact: Anne Looney
 
-**Address:** Marketing and Enterprise Officer, IT Tralee, Co. Kerry
+    Address: Marketing and Enterprise Officer, IT Tralee, Co. Kerry
 
-**Phone:** 066 7191994
+    Phone: 066 7191994
 
-**Email:** anne.looney@staff.ittralee.ie
+    Email: anne.looney@staff.ittralee.ie

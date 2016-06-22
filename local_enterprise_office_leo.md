@@ -1,7 +1,7 @@
 
 ![Local Enterprise Office](C:\Users\micheal\Desktop\leo.png>)
 
-Local Enterprise Office provides advice, information and support to you starting up or growing your business. With 31 dedicated teams across the Local Authority network in Ireland, Local Enterprise Offices offer a first-stop shop for entrepreneurs. Supports available include:
+**Local Enterprise Office** provides advice, information and support to you starting up or growing your business. With 31 dedicated teams across the Local Authority network in Ireland, Local Enterprise Offices offer a first-stop shop for entrepreneurs. Supports available include:
 
 *   Start-your-own-business training courses.
 *   Market research information.

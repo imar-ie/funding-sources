@@ -1,4 +1,4 @@
-# Have a Start-up Idea {#have-a-start-up-idea}    ![Imar Logo](C:\Users\micheal\Desktop\idea2.png>)
+# Have a Start-up Idea {#have-a-start-up-idea}    ![Idea Pic](C:\Users\micheal\Desktop\idea2.png>)
 
 If you have a start-up idea that you would like to investigate, the following four options are available for funding:
 

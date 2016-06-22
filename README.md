@@ -1,7 +1,7 @@
 
 
 
-![Imar Logo](C:\Users\micheal\Desktop\imarLogo2.png>"IMar")
+![Imar Logo](C:\Users\micheal\Desktop\imarLogo2.png>) 
 
 # Introduction {#introduction}           
 

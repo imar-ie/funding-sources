@@ -2,7 +2,7 @@
 
 Údarás can provide a range of financial incentives in the form of grant assistance to assist your varied business needs. Support incentives include:
 
-*   [Feasibility Study Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-staidear-feidearthachta)
+>*   [Feasibility Study Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-staidear-feidearthachta)
 *   [Research and Development Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-taighde-agus-forbartha)
 *   [Capital Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-caipitil)
 *   [Employment Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-fostaiochta)

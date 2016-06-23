@@ -1,4 +1,7 @@
+![Enterprise Ireland](C:\Users\micheal\Desktop\epi2.png> "Enterprise Ireland")
+
 # Enterprise Ireland: High Potential Start-Up (HPSU) Funding {#enterprise-ireland-high-potential-start-up-hpsu-funding}
+
 
 HPSUs are start-up businesses with the potential to develop an innovative product or service for sale on international markets and the potential to create 10 jobs and €1m in sales within 3 to 4 years of starting up.
 

@@ -7,7 +7,7 @@ HPSUs are start-up businesses with the potential to develop an innovative produc
 
 To avail of HPSU supports, you must be a client company of Enterprise Ireland.  HPSU clients of Enterprise Ireland should contact their [**Enterprise Ireland Adviser**](http://www.enterprise-ireland.com/en/About-Us/Our-People/DA%20Finder/) to discuss funding supports.
 
-If you are not currently a client of Enterprise Ireland and want to learn more about qualifying as a HPSU, please go to the [**Start a Business in Ireland**](http://www.enterprise-ireland.com/EI_Corporate/en/Start-a-Business-in-Ireland/Do-I-qualify-as-a-HPSU-/Overview.html)section on the Enterprise Ireland website.
+If you are not currently a client of Enterprise Ireland and want to learn more about qualifying as a HPSU, please go to the [**Start a Business in Ireland**](http://www.enterprise-ireland.com/EI_Corporate/en/Start-a-Business-in-Ireland/Do-I-qualify-as-a-HPSU-/Overview.html) section on the Enterprise Ireland website.
 
 Funding supports from Enterprise Ireland are closely aligned to a company’s stage of development. Broadly, high potential start-up companies are viewed as being at feasibility stage; investor ready stage or growth stage.
 

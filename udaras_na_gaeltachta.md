@@ -1,4 +1,4 @@
-![Údarás na Gaeltachta ](C:\Users\micheal\Desktop\ung.png> "Údarás na Gaeltachta ")
+![Údarás na Gaeltachta ](C:\Users\micheal\Desktop\images\ung.png> "Údarás na Gaeltachta ")
 
 Údarás can provide a range of financial incentives in the form of grant assistance to assist your varied business needs. Support incentives include
 
@@ -18,7 +18,7 @@
 **_The Contact Details of Údarás na Gaeltachta in Kerry Region:_**
 
 ![Údarás na Gaeltachta](C:\Users\micheal\De
-sktop\ung2.png "Údarás na Gaeltachta")
+sktop\images\ung2.png "Údarás na Gaeltachta")
 >Address: Údarás na Gaeltachta, Páirc Ghnó Dhaingean Uí Chúis, Co. Chiarraí
 
 >Phone: 066-9150100

@@ -1,6 +1,6 @@
 ![Údarás na Gaeltachta ](C:\Users\micheal\Desktop\ung.png> "Údarás na Gaeltachta ")
 
-Údarás can provide a range of financial incentives in the form of grant assistance to assist your varied business needs. Support incentives include:
+Údarás can provide a range of financial incentives in the form of grant assistance to assist your varied business needs. Support incentives include
 
 >*   [Feasibility Study Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-staidear-feidearthachta)
 *   [Research and Development Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-taighde-agus-forbartha)
@@ -17,4 +17,10 @@
 
 **_The Contact Details of Údarás na Gaeltachta in Kerry Region:_**
 
-**Address:** Údarás na Gaeltachta, Páirc Ghnó Dhaingean Uí Chúis, Co. Chiarraí**Phone:** 066-9150100**Fax:** 066-9150101**Email:** ciarrai@udaras.ie
+>Address: Údarás na Gaeltachta, Páirc Ghnó Dhaingean Uí Chúis, Co. Chiarraí
+
+>Phone: 066-9150100
+
+>Fax: 066-9150101
+
+>Email: ciarrai@udaras.ie

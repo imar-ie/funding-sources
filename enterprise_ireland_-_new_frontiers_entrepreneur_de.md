@@ -4,7 +4,7 @@ New Frontiers is Ireland’s national entrepreneur development programme run in 
 
 **_The Contact Details for New Frontiers Entrepreneur Development Programme at IT Tralee are:_**
 
-![Anne Looney](C:\Users\micheal\Desktop\anneLooney.jpeg> "Anne Lonney")
+![Anne Looney](C:\Users\micheal\Desktop\images\anneLooney.jpeg> "Anne Lonney")
 
     Contact: Anne Looney
 

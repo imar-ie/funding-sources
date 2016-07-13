@@ -12,14 +12,17 @@ Funding supports from Enterprise Ireland are closely aligned to a company’s st
 
 _**Companies who are at the feasibility stage can apply for the following Enterprise Ireland supports aimed at developing the business idea or proposal to the point where it is investor ready.**_
 
-**High Potential Start-up**
+## High Potential Start-up
 
 1. HPSU Feasibility Grant 
 2. Innovation Voucher
 3. New Frontiers Entrepreneur Development Programme
 4. Competitive Feasibility Study
 5. Mentor Grant
- -fontMH80f
+ 
+
+### Investor Ready Supports {#investor-ready-supports}
+1. Competitive Start Fund2. Innovative HPSU Fund
 
 ---
 

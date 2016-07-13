@@ -1,6 +1,4 @@
-```
 
-```
 
 ![](/assets/imapLogo2.png)
 

@@ -16,7 +16,7 @@ Our latest service is 3D Printing & Scanning producing high quality objects. We 
 
 ![](/assets/DanielORiordan.jpg)
 
-**Contact: Daniel Riordan, IMaR Gateway Manager**
+>Contact: Daniel Riordan, IMaR Gateway Manager
 
 > Address:South Campus, IT Tralee, Co. Kerry
  

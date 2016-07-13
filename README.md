@@ -1,4 +1,4 @@
-![](/assets/imar1.png)
+![](/assets/imarLogo.png)
 
 # Introductions {#introduction}
 
@@ -12,7 +12,7 @@ Further information for SME support can be found by linking to
 
 [www.supportingsmes.ie]([http://www.supportingsmes.ie/BusinessDetails.aspx](http://www.supportingsmes.ie/BusinessDetails.aspx "SME Support")
 
-This is an online guide is available to increase awareness of the available Government supports for start-ups and small businesses. 
+This is an online guide is available to increase awareness of the available Government supports for start-ups and small businesses.
 
 ---
 

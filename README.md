@@ -1,6 +1,6 @@
-![](/assets/IMaRTG.jpg)
+    ![](/assets/imar1.png)
 
-# Introductions {#introduction}
+#                                       Introductions {#introduction}
 
 ---
 

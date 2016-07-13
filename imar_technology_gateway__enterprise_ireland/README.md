@@ -1,4 +1,4 @@
-
+                                        ![](/assets/epi.png)
 
 # IMaR Technology Gateway – Enterprise Ireland {#imar-technology-gateway-enterprise-ireland}
 

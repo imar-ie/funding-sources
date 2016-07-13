@@ -1,4 +1,4 @@
-![](/assets/imarLogo.png)
+![imarLogo](/assets/imarLogo.png "IMaR") 
 
 # Introductions {#introduction}
 

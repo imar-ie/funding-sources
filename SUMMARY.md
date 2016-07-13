@@ -6,7 +6,6 @@
 * [Funding Mechanisms Continued](imar_technology_gateway__enterprise_ireland/consultancy.md)
 * [Technology Gateways](technology-gateways.md)
 * [Enterprise Ireland - New Frontiers Entrepreneur Development Programme](enterprise_ireland_-_new_frontiers_entrepreneur_de.md)
-* [Technology Gateway Nationwide Network](technology_gateway_nationwide_network.md)
 * [Local Enterprise Office \(LEO\)](local_enterprise_office_leo.md)
 * [Údarás na Gaeltachta](udaras_na_gaeltachta.md)
 * [Enterprise Ireland: High Potential Start-Up \(HPSU\) Funding](enterprise_ireland_high_potential_start-up_hpsu_fu/README.md)

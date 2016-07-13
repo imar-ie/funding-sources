@@ -1,4 +1,4 @@
-#                 Have a you a  ![](/assets/startUp.png) idea? {#have-a-start-up-idea}
+#                   Have a you a  ![](/assets/startUp.png) idea? {#have-a-start-up-idea}
 
 If you have a start-up idea that you would like to investigate, the following four options are available for funding:
 

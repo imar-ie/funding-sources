@@ -12,15 +12,16 @@ Our latest service is 3D Printing & Scanning producing high quality objects. We 
 
 ## Consultancy {#consultancy}
 
-**_The Contact Details of IMaR Technology Gateway are:_**
+_**The Contact Details of IMaR Technology Gateway are:**_
 
 ![](/assets/DanielORiordan.jpg)
 
->Contact: Daniel Riordan, IMaR Gateway Manager
+```
+ Contact: Daniel Riordan, IMaR Gateway Manager
+ Address:South Campus, IT Tralee, Co. Kerry
+ Phone: 066 7144216 
+ Email: daniel.riordan@staff.ittralee.ie
+```
 
-> Address:South Campus, IT Tralee, Co. Kerry
- 
-> Phone: 066 7144216 
-
-> Email: daniel.riordan@staff.ittralee.ie
+--------------------
 

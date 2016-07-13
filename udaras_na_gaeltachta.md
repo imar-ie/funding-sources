@@ -17,13 +17,12 @@
 
 _**The Contact Details of Údarás na Gaeltachta in Kerry Region:**_
 
-![](/assets/ung1.png)
+![](/assets/ungBuilding.png)
+ ``` 
+ Address: Údarás na Gaeltachta, Páirc Ghnó Dhaingean Uí Chúis, Co. Chiarraí 
+ Phone: 066-9150100
+ Fax: 066-9150101
+Email: ciarrai@udaras.ie
 
-> Address: Údarás na Gaeltachta, Páirc Ghnó Dhaingean Uí Chúis, Co. Chiarraí
-> 
-> Phone: 066-9150100
-> 
-> Fax: 066-9150101
-> 
-> Email: ciarrai@udaras.ie
+ ``` 
 

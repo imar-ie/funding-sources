@@ -10,9 +10,7 @@
 * [Local Enterprise Office \(LEO\)](local_enterprise_office_leo.md)
 * [Údarás na Gaeltachta](udaras_na_gaeltachta.md)
 * [Enterprise Ireland: High Potential Start-Up \(HPSU\) Funding](enterprise_ireland_high_potential_start-up_hpsu_fu/README.md)
-    * [High Potential Start-up](enterprise_ireland_high_potential_start-up_hpsu_fu/high_potential_start-up.md)
-    * [Investor Ready Supports](enterprise_ireland_high_potential_start-up_hpsu_fu/investor_ready_supports.md)
-    * [Post Investment Supports: growth phase](enterprise_ireland_high_potential_start-up_hpsu_fu/post_investment_supports_growth_phase.md)
+* [Enterprise-Ireland-continued](enterprise-ireland-continued.md)
 * [Enterprise Ireland: Established SME Funding](enterprise_ireland_established_sme_funding/README.md)
     * [Market Research & Internationalisation Supports](enterprise_ireland_established_sme_funding/market_research_&_internationalisation_supports.md)
     * [In Company & Collaborative Research & Development Supports](enterprise_ireland_established_sme_funding/in_company_&_collaborative_research_&_development_.md)
@@ -53,5 +51,5 @@
     * [Trade Fair Participation Scheme](local_enterprise_funding/trade_fair_participation_scheme.md)
 * [Horizon 2020: The EU Framework Programme for Research and Innovation](horizon_2020_the_eu_framework_programme_for_resear/README.md)
     * [Phased Support](horizon_2020_the_eu_framework_programme_for_resear/phased_support.md)
-* Technology Gateways
+* [Technology Gateways](technology-gateways.md)
 

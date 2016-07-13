@@ -1,4 +1,4 @@
-![Imar Logo](C:\Users\micheal\Desktop\images\imarLogo2.png)
+![](/assets/IMaRTG.jpg)
 
 # Introductions {#introduction}
 

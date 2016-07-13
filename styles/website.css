@@ -1,11 +1,6 @@
 /* CSS for website */
 
-markdown.{
-font-family: sans-serif;
+#{
+color:blue;
+
 }
-
-
-  h1{ padding-left:30px;
-  color:#999999;
-  font-size:1.5em;
- font-family: Century Gothic, sans-serif; }

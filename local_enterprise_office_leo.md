@@ -8,15 +8,12 @@
 > * Access to experienced business mentors.
 > * Feasibility grants and co-investment for your plans.
 
-_**The Contact Details of the Local Enterprise Office in Tralee are:**_
+**_The Contact Details of the Local Enterprise Office in Tralee are:_**
 
 ```
 Address: Kerry Local Enterprise Office, County Buildings, Rathass, Tralee, Co. Kerry.
-
 Phone: 066 7183522
-
 Fax: 066 7126712
-
 Email: LEO@kerrycoco.ie
 ```
 

@@ -3,7 +3,7 @@
 * [Funding Sources-Introduction](README.md)
 * [IMaR Technology Gateway – Enterprise Ireland](imar_technology_gateway__enterprise_ireland/README.md)
 * [Funding Mechanisms](imar_technology_gateway__enterprise_ireland/innovation_partnerships.md)
-* [Consultancy](imar_technology_gateway__enterprise_ireland/consultancy.md)
+* [Funding Mechanisms Continued](imar_technology_gateway__enterprise_ireland/consultancy.md)
 * [Enterprise Ireland - New Frontiers Entrepreneur Development Programme](enterprise_ireland_-_new_frontiers_entrepreneur_de.md)
 * [Technology Gateway Nationwide Network](technology_gateway_nationwide_network.md)
 * [Local Enterprise Office \(LEO\)](local_enterprise_office_leo.md)

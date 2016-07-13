@@ -4,6 +4,7 @@
 * [IMaR Technology Gateway – Enterprise Ireland](imar_technology_gateway__enterprise_ireland/README.md)
 * [Funding Mechanisms](imar_technology_gateway__enterprise_ireland/innovation_partnerships.md)
 * [Funding Mechanisms Continued](imar_technology_gateway__enterprise_ireland/consultancy.md)
+* [Technology Gateways](technology-gateways.md)
 * [Enterprise Ireland - New Frontiers Entrepreneur Development Programme](enterprise_ireland_-_new_frontiers_entrepreneur_de.md)
 * [Technology Gateway Nationwide Network](technology_gateway_nationwide_network.md)
 * [Local Enterprise Office \(LEO\)](local_enterprise_office_leo.md)
@@ -52,6 +53,5 @@
     * [Trade Fair Participation Scheme](local_enterprise_funding/trade_fair_participation_scheme.md)
 * [Horizon 2020: The EU Framework Programme for Research and Innovation](horizon_2020_the_eu_framework_programme_for_resear/README.md)
     * [Phased Support](horizon_2020_the_eu_framework_programme_for_resear/phased_support.md)
-* [Initiatives for start-up businesses and SMEs](initiatives_for_start-up_businesses_and_smes.md)
-    * [The SME Instrument](horizon_2020_the_eu_framework_programme_for_resear/the_sme_instrument.md)
+* Technology Gateways
 

@@ -1,4 +1,7 @@
-## Innovation Partnerships {#innovation-partnerships}
+ **IMaR** have helped many companies, since its formation in 2013, through funding mechanisms with Enterprise Ireland to successfully avail of grant funding through Innovation Vouchers and Innovation Partnerships. 
+
+
+### Innovation Partnerships {#innovation-partnerships}
 
 The Innovation Partnership programme supports collaborative research projects between IMaR and the applicant company. The proposal process and administration of the project is managed by the IMaR research team providing benefits to you.
 

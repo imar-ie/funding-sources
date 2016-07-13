@@ -17,5 +17,5 @@
 * Electronic System Solutions
 * Mechanical Control Solutions
 
-**IMaR** have helped many companies, since its formation in 2013, through funding mechanisms with Enterprise Ireland to successfully avail of grant funding through Innovation Vouchers and Innovation Partnerships.
+
 

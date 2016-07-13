@@ -1,11 +1,4 @@
-## Post Investment Supports: growth phase {#post-investment-supports-growth-phase}
 
-1.  Skills Voucher
-2.  Mentor Grant
-3.  Business Link Grant
-4.  Innovation Voucher
-5.  H2020 Voucher
-6.  Excel at Exporting
 
 1.  [**HPSU Feasibility Grant**](http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/HPSU-Feasibility-Study-Grant-.html)**: Max of €15,000.00 – 50% of spend**
 

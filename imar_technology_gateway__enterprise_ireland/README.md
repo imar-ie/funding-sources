@@ -1,7 +1,5 @@
 
 
-                                         ![](/assets/epi.png)
-
 # IMaR Technology Gateway – Enterprise Ireland {#imar-technology-gateway-enterprise-ireland}
 
 **IMaR** is one of 12 Technology Gateways in a nationwide network established by Enterprise Ireland in partnership with the Institutes of Technology which can help your business:

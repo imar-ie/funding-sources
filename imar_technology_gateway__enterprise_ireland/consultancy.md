@@ -1,4 +1,4 @@
-### Technical Business Model Planning
+#### Technical Business Model Planning
 
 At IMaR, we provide both a technical and a business service to companies that we work with. For any business it is important to create your business plan. Here at IMaR we provide this service with a difference. We can work with you, using our expertise, to provide a technical business model plan outlining your technical business idea, your business objectives and how you plan to achieve them. Our team of experts can create a technical strategy to guide the lifetime of your product or service.
 

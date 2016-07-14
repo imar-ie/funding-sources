@@ -6,8 +6,7 @@ Feasibility grants are designed to assist the promoter with researching market d
 
 The maximum Feasibility Grant payable for the S&E region shall be 50% of the investment or €15,000 whichever is the lesser. The maximum Feasibility Grant payable for the BMW Region shall be 60% of the investment or €15,000 whichever is the lesser.
 
-Expenditure may be considered under the following headings:
-
+**Expenditure may be considered under the following headings:**
 1. Market Research
 2. Consultancy Costs
 3. Technical Development\/Prototype\/Innovation
@@ -29,10 +28,9 @@ Priming grants may be available for sole traders, partnerships or limited compan
 
 Eligible clients may be awarded a Priming Grant within the first eighteen months of setting up the business.
 
-The maximum Priming Grant payable shall be 50% of the investment or €150,000 whichever is the lesser. 
+The maximum Priming Grant payable shall be 50% of the investment or €150,000 whichever is the lesser.
 
 **Expenditure may be considered under the following headings:**
-
 1. Capital items
 2. Salary costs
 3. Consultancy\/Innovation\/Marketing costs

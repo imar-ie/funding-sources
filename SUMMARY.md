@@ -12,6 +12,7 @@
 * [pg 11](enterprise-ireland-continued.md)
 * [pg 12](ff.md)
 * [pg 13](pg-13.md)
+* [pg 14](pg-14.md)
 * [Enterprise Ireland: Established SME Funding](enterprise_ireland_established_sme_funding/README.md)
     * [Market Research & Internationalisation Supports](enterprise_ireland_established_sme_funding/market_research_&_internationalisation_supports.md)
     * [In Company & Collaborative Research & Development Supports](enterprise_ireland_established_sme_funding/in_company_&_collaborative_research_&_development_.md)

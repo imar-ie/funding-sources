@@ -1,7 +1,5 @@
 ![](/assets/imapLogo2.png)
 
-**IMaR** have helped many companies, since its formation in 2013, through funding mechanisms with Enterprise Ireland to successfully avail of grant funding through Innovation Vouchers and Innovation Partnerships.
-
 #### Innovation Vouchers {#InnovationVouchers }
 
 SMEs can spend their €5,000 vouchers at IMaR Technology Gateway in exchange for innovative solutions to small business challenges. Up to three vouchers \(one co-funded\) to the value of €5000.00 can be availed of by your company. 5E

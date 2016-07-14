@@ -24,7 +24,7 @@
 * [Business Expansion Grants](business-expansion-grants.md)
 * [Microfinance Loans](microfinance-loans.md)
 * [Údarás na Gaeltachta](údarás-na-gaeltachta.md)
-* [Grants Continued](grants-continued.md)
+* [Employment Grant](grants-continued.md)
 * [Development of Market Research Skills](pg-27.md)
 * [Horizon 2020: The EU Framework Programme for Research and Innovation](horizon-2020-the-eu-framework-programme-for-research-and-innovation.md)
 * [Phased Support 1-2](phased-support.md)

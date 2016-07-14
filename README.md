@@ -1,4 +1,3 @@
-![imarLogo](/assets/imarLogo.png)
 
 # Introductions {#introduction}
 

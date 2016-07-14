@@ -1,8 +1,8 @@
-# ![](/assets/Horizon2020.png)
+# ![ Horizon2020 ](/assets/Horizon2020.png)
 
 # Horizon 2020: The EU Framework Programme for Research and Innovation
 
-### The SME Instrument
+##### The SME Instrument
 
 Small and Medium-sized Enterprises that are EU-based or established in a country associated to Horizon 2020 can now get EU funding and support for innovation projects that will help them grow and expand their activities into other countries – in Europe and beyond.
 

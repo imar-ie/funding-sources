@@ -1,6 +1,6 @@
-## Microfinance Loans
+##### Microfinance Loans
 
-**Under a partnership between Microfinance Ireland and the Local Enterprise Offices, Business Loans are now available through the Local Enterprise Office.**
+Under a partnership between Microfinance Ireland and the Local Enterprise Offices, Business Loans are now available through the Local Enterprise Office.
 
 1. Unsecured loans from €2,000 up to €25,000
 2. Term from 3 to 5 years

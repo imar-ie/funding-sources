@@ -1,8 +1,8 @@
-### _Commercialisation \(phase 3\)_
+##### _Commercialisation \(phase 3\)_
 
 With the view of facilitating the commercial exploitation of the innovation activities resulting from phase 1 or phase 2, specific activities will be proposed. These can include support for further developing investment readiness, linking with private investors and customers through brokerage activities, assistance in applying for further EU risk finance, and a range of other innovation support activities and services offered via the [Enterprise Europe Network \(EEN\)](http://een.ec.europa.eu/services/overview).
 
-###   _Coaching _
+#####   _Coaching _
 
 Innovation and Business development coaching is proposed in parallel throughout phases 1 and 2 to help SMEs:
 

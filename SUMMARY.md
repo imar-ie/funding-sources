@@ -25,6 +25,7 @@
 * [Microfinance Loans](microfinance-loans.md)
 * [Údarás na Gaeltachta](údarás-na-gaeltachta.md)
 * [Grants Continued](grants-continued.md)
+* [pg 27](pg-27.md)
 * [Enterprise Ireland: Established SME Funding](enterprise_ireland_established_sme_funding/README.md)
     * [Market Research & Internationalisation Supports](enterprise_ireland_established_sme_funding/market_research_&_internationalisation_supports.md)
     * [In Company & Collaborative Research & Development Supports](enterprise_ireland_established_sme_funding/in_company_&_collaborative_research_&_development_.md)

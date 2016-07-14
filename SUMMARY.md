@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [IMaR Technology Gateway – Enterprise Ireland](imar_technology_gateway__enterprise_ireland/README.md)
-* [Grant Funding](imar_technology_gateway__enterprise_ireland/innovation_partnerships.md)
-* [pg 5](imar_technology_gateway__enterprise_ireland/consultancy.md)
+* [Innovation Vouchers and Innovation Partnerships](imar_technology_gateway__enterprise_ireland/innovation_partnerships.md)
+* [Technical Business Model Planning](imar_technology_gateway__enterprise_ireland/consultancy.md)
 * [pg 6](technology-gateways.md)
 * [Enterprise Ireland - New Frontiers Entrepreneur Development Programme](enterprise_ireland_-_new_frontiers_entrepreneur_de.md)
 * [Local Enterprise Office \(LEO\)](local_enterprise_office_leo.md)

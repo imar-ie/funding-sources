@@ -12,7 +12,9 @@ The Innovation Partnership programme supports collaborative research projects be
 
 IMaR Researchers participating in an [Innovation Partnership](http://www.enterprise-ireland.com/en/Funding-Supports/Researcher/Funding-to-Collaborate-with-Industry-in-Ireland/Innovation-Partnerships.shortcut.html) have acquired great experience working with companies to solve real technical challenges and new product \/ service development.
 
-A combination of IMaRs technical skills with your business acumen will produce results\/technical solutions effectively and efficiently.
+
+
+**A combination of IMaRs technical skills with your business acumen will produce results\/technical solutions effectively and efficiently.**
 
 #### Technical Feasibility Studies
 

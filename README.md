@@ -1,4 +1,4 @@
-![imarLogo](/assets/imarLogo.png "IMaR") 
+![imarLogo](/assets/imarLogo.png)
 
 # Introductions {#introduction}
 
@@ -13,6 +13,23 @@ Further information for SME support can be found by linking to
 [www.supportingsmes.ie]([http://www.supportingsmes.ie/BusinessDetails.aspx](http://www.supportingsmes.ie/BusinessDetails.aspx "SME Support")
 
 This is an online guide is available to increase awareness of the available Government supports for start-ups and small businesses.
+
+
+
+# Have a Start-up Idea?
+
+If you have a start-up idea that you would like to investigate, the following four options are available for funding:
+
+* IMaR Technology Gateway @ IT Tralee
+*  New Frontiers Development Programme: Enterprise Ireland
+* Local Enterprise Office \(LEO\)
+
+* Údarás na Gaeltachta
+
+
+Services provided by each option are outlined below.
+
+ 
 
 ---
 

@@ -1,4 +1,4 @@
-#![](/assets/imarLogoPic.png)![](/assets/epiPic.png) {#imar-technology-gateway-enterprise-ireland}
+# ![](/assets/imarLogoPic.png)![](/assets/epiPic.png) {#imar-technology-gateway-enterprise-ireland}
 
 # IMaR Technology Gateway – Enterprise Ireland {#imar-technology-gateway-enterprise-ireland}
 
@@ -18,4 +18,5 @@
 * Mechanical Control Solutions
 
 
+**IMaR** have helped many companies, since its formation in 2013, through funding mechanisms with Enterprise Ireland to successfully avail of grant funding through Innovation Vouchers and Innovation Partnerships.
 

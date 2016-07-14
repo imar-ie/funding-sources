@@ -1,3 +1,5 @@
+# ![](/assets/Horizon2020.png)
+
 # Horizon 2020: The EU Framework Programme for Research and Innovation
 
 ### The SME Instrument

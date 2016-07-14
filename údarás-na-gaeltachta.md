@@ -5,17 +5,14 @@
 Údarás can provide a range of financial incentives in the form of grant assistance to assist your varied business needs. Support incentives include:
 
 ### [Feasibility Study Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-staidear-feidearthachta)
-
 Feasibility study grant aid is available to groups, organisations, businesses or individuals to allow them assess the viability of a business idea. A significant portion of costs directly related to the feasibility study may be covered. Examples of eligible costs are salaries and wages of the company’s personnel, cost of consultants, related travel and subsistence and any other additional overheads incurred directly as a result of the Feasibility Study.
 
 ### [Research and Development Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-taighde-agus-forbartha)
-
 Research and development grants are available to assist businesses develop innovative products, processes and services which will lead to an enhancement of their ability to perform in increasingly competitive markets.
 
 Eligible costs include R&D Salaries, directly related additional overheads, the cost of capital assets to the extent and for the period of their use in the research project, costs of contractual research, technical knowledge and patents bought or licensed from outside sources, other operating expenses including costs of materials, supplies, travel and subsistence and other similar costs directly related to the research activity.
 
 ### [Capital Grant](http://www.udaras.ie/en/forbairt-fiontraiochta/cunamh-airgid/deontas-caipitil)
-
 Údarás na Gaeltachta can provide assistance by way of capital grant to enterprises seeking aid for an initial investment for capital expenditure costs. Instances where a proposed investment qualifies as an initial investment include the following:
 
 * The setting up of a new establishment

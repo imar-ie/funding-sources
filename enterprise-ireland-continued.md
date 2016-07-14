@@ -1,5 +1,5 @@
 1. [**HPSU Feasibility Grant**](http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/HPSU-Feasibility-Study-Grant-.html)
-**Max of €15,000.00 – 50% of spend** Used to support the development of an innovative\/high potential start-up and the development of an Investor Ready Business Plan. Eligible costs include; Salaries and Overheads, Consultancy Fees, Foreign Travel and Subsistence, EI approved Business Accelerator Fees, Trade Fair costs and Prototype costs.
+  **Max of €15,000.00 – 50% of spend** Used to support the development of an innovative\/high potential start-up and the development of an Investor Ready Business Plan. Eligible costs include; Salaries and Overheads, Consultancy Fees, Foreign Travel and Subsistence, EI approved Business Accelerator Fees, Trade Fair costs and Prototype costs.
 
 2. [**Innovation Voucher: Up to 3 vouchers – 1 co-funded**](http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/Innovation-Voucher.html)[ ](http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/Innovation-Voucher.html)Innovation Vouchers, worth €5,000, are available to assist early stage companies to work with a registered college or knowledge provider in Ireland and Northern Ireland to explore a business opportunity or solve a technical problem. A CRO number is required.
 
@@ -10,5 +10,6 @@
 5. [**Mentor Grant: Up to 10 sessions at a max of €175.00 per session.**](http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/Mentor-Grant.html)[ ](http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/Mentor-Grant.html)Used to support the cost of a Mentor Assignment. Enterprise Ireland can match you with an experienced business mentor to assist you in your start-up phase or advise on specific areas of your plan.
 
 
----
+
+
 

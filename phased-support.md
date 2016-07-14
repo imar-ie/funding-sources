@@ -1,6 +1,6 @@
-## Phased Support
+##### Phased Support
 
-### _Feasibility assessment \(phase 1\) - optional_
+##### _Feasibility assessment \(phase 1\) - optional_
 
 **Funding is available for:** exploring and assessing the technical feasibility and commercial potential of a breakthrough innovation that a company wants to exploit and commercialize.
 
@@ -16,7 +16,7 @@ The project should be aligned to the business strategy, helping internal growth 
 
 Should the conclusion of the study be that the innovative concept has the potential to be developed to the level of investment readiness\/market maturity, but requires additional funding in view of commercialisation, the SME can apply for Phase 2 support.
 
-### _Innovation project \(phase 2\)_
+##### _Innovation project \(phase 2\)_
 
 **Funding is available for:** innovation projects underpinned by a sound and strategic business plan \(potentially elaborated and partially funded through phase 1 of the SME Instrument\).
 

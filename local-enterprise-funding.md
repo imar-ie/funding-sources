@@ -18,6 +18,7 @@ The maximum Feasibility Grant payable for the S&E region shall be 50% of the inv
 A Priming Grant is a business start-up grant, available to micro enterprises within the first 18 months of start-up.
 
 **Priming grants may be available for sole traders, partnerships or limited companies that fulfil the following criteria:**
+
 1. Located and operating within the LEO’s geographic area
 2. A business which on growth will fit the Enterprise Ireland portfolio
 3. A business employing up to 10 employees
@@ -30,6 +31,7 @@ Eligible clients may be awarded a Priming Grant within the first eighteen months
 The maximum Priming Grant payable shall be 50% of the investment or €150,000 whichever is the lesser.
 
 **Expenditure may be considered under the following headings:**
+
 1. Capital items
 2. Salary costs
 3. Consultancy\/Innovation\/Marketing costs

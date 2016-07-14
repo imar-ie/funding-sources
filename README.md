@@ -1,5 +1,4 @@
-
-# Introductions {#introduction}
+# ![](/assets/imarLogoPic.png)Introductions {#introduction}
 
 ---
 
@@ -21,7 +20,6 @@ If you have a start-up idea that you would like to investigate, the following fo
 * New Frontiers Development Programme: Enterprise Ireland
 * Local Enterprise Office \(LEO\)
 * Údarás na Gaeltachta
-
 
 Services provided by each option are outlined below.
 

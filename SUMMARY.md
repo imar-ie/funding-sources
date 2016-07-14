@@ -25,7 +25,7 @@
 * [Microfinance Loans](microfinance-loans.md)
 * [Údarás na Gaeltachta](údarás-na-gaeltachta.md)
 * [Grants Continued](grants-continued.md)
-* [pg 27](pg-27.md)
+* [Development of Market Research Skills](pg-27.md)
 * [Horizon 2020: The EU Framework Programme for Research and Innovation](horizon-2020-the-eu-framework-programme-for-research-and-innovation.md)
 * [Phased Support](phased-support.md)
 * [phased Support continued](phased-support-continued.md)

@@ -17,6 +17,7 @@
 * [pg 16](pg-16.md)
 * [pg 17](pg-17.md)
 * [pg 18](enterprise_ireland_established_sme_funding/productivity_and_business_process_improvement_supp.9.md)
+* [pg 19](pg-19.md)
 * [Enterprise Ireland: Established SME Funding](enterprise_ireland_established_sme_funding/README.md)
     * [Market Research & Internationalisation Supports](enterprise_ireland_established_sme_funding/market_research_&_internationalisation_supports.md)
     * [In Company & Collaborative Research & Development Supports](enterprise_ireland_established_sme_funding/in_company_&_collaborative_research_&_development_.md)

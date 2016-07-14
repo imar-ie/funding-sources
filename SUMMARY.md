@@ -21,6 +21,7 @@
 * [pg 20](pg-20.md)
 * [pg 21](pg-21.md)
 * [Local Enterprise Funding](local-enterprise-funding.md)
+* [Business Expansion Grants](business-expansion-grants.md)
 * [Enterprise Ireland: Established SME Funding](enterprise_ireland_established_sme_funding/README.md)
     * [Market Research & Internationalisation Supports](enterprise_ireland_established_sme_funding/market_research_&_internationalisation_supports.md)
     * [In Company & Collaborative Research & Development Supports](enterprise_ireland_established_sme_funding/in_company_&_collaborative_research_&_development_.md)

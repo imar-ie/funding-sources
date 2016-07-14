@@ -1,4 +1,4 @@
-### Business Expansion Grants
+##### Business Expansion Grants
 
 The Business Expansion grant is designed to assist the business in its growth phase after the initial 18 month start-up period.
 

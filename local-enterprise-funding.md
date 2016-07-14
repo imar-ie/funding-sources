@@ -1,6 +1,6 @@
 # Local Enterprise Funding
 
-### Feasibility\/Innovation Grants
+##### Feasibility\/Innovation Grants
 
 Feasibility grants are designed to assist the promoter with researching market demand for a product or service and examining its sustainability. It includes assistance with innovation including specific consultancy requirements, hiring of expertise from third level colleges private specialists, design and prototype development.
 
@@ -13,7 +13,7 @@ The maximum Feasibility Grant payable for the S&E region shall be 50% of the inv
 4. Salary\/Own Labour Research
 5. Miscellaneous Costs
 
-### Priming Grants
+##### Priming Grants
 
 A Priming Grant is a business start-up grant, available to micro enterprises within the first 18 months of start-up.
 

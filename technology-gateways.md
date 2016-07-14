@@ -1,4 +1,4 @@
-![](/assets/Technology-Gateway-logo.jpg)
+![Technology Gateways](/assets/Technology-Gateway-logo.jpg)
 
 
 

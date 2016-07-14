@@ -9,7 +9,6 @@
 * [Local Enterprise Office \(LEO\)](local_enterprise_office_leo.md)
 * [Údarás na Gaeltachta](udaras_na_gaeltachta.md)
 * [Enterprise Ireland: High Potential Start-Up \(HPSU\) Funding](enterprise_ireland_high_potential_start-up_hpsu_fu/README.md)
-* [HPSU Feasibility Grant](enterprise-ireland-continued.md)
 * [Investor Ready Supports ](ff.md)
 * [Post Investment Supports ](pg-13.md)
 * [Enterprise Ireland: Established SME Funding](pg-14.md)
